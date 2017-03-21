@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/cog_config_configuracion_configuration_edit_48px_249_easyicon.net.png</file>
+        <file>icon/drive_download_48px_1114192_easyicon.net.png</file>
+        <file>icon/exit_48px_27110_easyicon.net.png</file>
+        <file>icon/upload_48px_28748_easyicon.net.png</file>
+        <file>icon/fake_find_magnifying_glass_search_zoom_48px_106_easyicon.net.png</file>
+        <file>icon/Checked_48px_1123707_easyicon.net.png</file>
+        <file>icon/refresh_48px_30803_easyicon.net.png</file>
+        <file>icon/login.png</file>
+        <file>icon/delete_Trash.png</file>
+        <file>icon/maintenance_tool_tools_96px_516592_easyicon.net.ico</file>
+    </qresource>
+</RCC>
